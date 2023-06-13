@@ -25,7 +25,8 @@ I'm a full stack developer passionate about software development and enjoy explo
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OlivoEngel)
 
 
-## More about me...
+## 🤓 More about me 
+
 🧠 I'm currently learning C# and Rust.
 
 💬 Ask me about React, Node.js and GraphQL.
