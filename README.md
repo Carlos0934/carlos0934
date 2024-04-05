@@ -33,10 +33,10 @@ I'm a full stack developer passionate about software development and enjoy explo
 
 ## 🤓 More about me 
 
-🧠 I'm currently learning C# and Rust.
+🧠 I'm currently learning Rust and Kubernetes.
 
 💬 Ask me about React, Node.js and GraphQL.
 
 📫 How to reach me on my website [resume](https://carlos-olivo.dev/).
 
-⚡️ I love to play League of Legends and watch anime.
+⚡️ I love optimizing my code and comparing benchmarks.
